@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/mohaiminulisamayon5">
-    <img src="https://leetcode.com/u/mohaiminulislamayon5/"/>
+    <img src="[https://leetcode.com/u/mohaiminulislamayon5/](https://leetcode.com/u/mohaiminulislamayon5)"/>
   </a>
   <a href="https://linktr.ee/mohaiminulislamayon.ph">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
