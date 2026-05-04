@@ -21,7 +21,7 @@
 ### 🚀 About Me
 - 🎓 CSE graduate from IIUC
 - 💼 Ex-Content Creator @ Programming Hero (1.5 years)
-- 🔭 Currently building REST APIs with **Java & Spring Boot**
+- 🔭 Currently building project with **Java & Spring Boot,Dot Net**
 - 📚 Studying DSA & solving LeetCode daily
 - 🌱 Open to backend developer roles (remote preferred)
 
